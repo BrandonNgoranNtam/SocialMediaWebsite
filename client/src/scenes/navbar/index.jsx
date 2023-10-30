@@ -45,7 +45,6 @@ const Navbar = () => {
   return (
     <FlexBetween padding="1rem 6%" backgroundColor={alt}>
       <FlexBetween>
-        <div></div>
       </FlexBetween>
     </FlexBetween>
   );
